@@ -52,7 +52,7 @@ To ensemble the results of 4 streams. Change models name in `ensemble.py` depend
 We release all trained models:
 
 Dataset|Setting|Model
--|-|-|-
+-|-|-
 NTU-RGBD|X-view|./save_models/ntu/xview/ntu_CDGC_joint_xview.pt
 NTU-RGBD|X-view|./save_models/ntu/xview/ntu_CDGC_bone_xview.pt
 NTU-RGBD|X-view|./save_models/ntu/xview/ntu_CDGC_joint_motion_xview.pt
