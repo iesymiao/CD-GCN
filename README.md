@@ -57,7 +57,7 @@ NTU-RGBD|X-view|./save_models/ntu/xview/ntu_CDGC_joint_xview.pt
 NTU-RGBD|X-view|./save_models/ntu/xview/ntu_CDGC_bone_xview.pt
 NTU-RGBD|X-view|./save_models/ntu/xview/ntu_CDGC_joint_motion_xview.pt
 NTU-RGBD|X-view|./save_models/ntu/xview/ntu_CDGC_bone_motion_xview.pt
-
+-|-|-
 NTU-RGBD|X-sub|./save_models/ntu/xsub/ntu_CDGC_joint_xsub.pt
 NTU-RGBD|X-sub|./save_models/ntu/xsub/ntu_CDGC_bone_xsub.pt
 NTU-RGBD|X-sub|./save_models/ntu/xsub/ntu_CDGC_joint_motion_xsub.pt
