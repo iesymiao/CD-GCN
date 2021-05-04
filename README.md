@@ -70,7 +70,7 @@ NTU-RGBD120|X-sub|./save_models/ntu120/xsub/ntu120_CDGC_bone_xsub.pt
 NTU-RGBD120|X-sub|./save_models/ntu120/xsub/ntu120_CDGC_joint_motion_xsub.pt
 NTU-RGBD120|X-sub|./save_models/ntu120/xsub/ntu120_CDGC_bone_motion_xsub.pt
 
-
+Most models are based on Python 0.4 and a few on 1.7. So you need two versions of Python when loading these models.
 
 
 
