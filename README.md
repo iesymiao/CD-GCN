@@ -1,5 +1,5 @@
 # CD-GCN
-PyTorch implementation of "A Central Difference Graph Convolutional Operatorfor Skeleton-Based Action Recognition".
+PyTorch implementation of "A Central Difference Graph Convolutional Operator for Skeleton-Based Action Recognition".
 
 ## Prerequisite
  - g++ 5.4.0
